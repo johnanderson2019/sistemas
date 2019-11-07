@@ -1,0 +1,6 @@
+Importar en public.fac_producto
+06/11/2019 9:58:13 p. m.
+
+2998 registros de 2998 procesados correctamente.
+2998 registros añadidos.
+0 registros actualizados.
